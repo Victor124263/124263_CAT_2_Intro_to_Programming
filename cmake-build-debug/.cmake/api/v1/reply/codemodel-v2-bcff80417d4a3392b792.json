@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "124263_CAT_2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "124263_CAT_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-124263_CAT_2-Debug-074b032ebf6680b59367.json",
+					"name" : "124263_CAT_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_1-Debug-0e6b003e2b392b4fe896.json",
+					"name" : "Question_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_2.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_2.cpp-Debug-efed99d9ae31cd2eb265.json",
+					"name" : "Question_2.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_3.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_3.cpp-Debug-4be1b26df6c934666514.json",
+					"name" : "Question_3.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_4.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_4.cpp-Debug-bd784d240c4c5f800772.json",
+					"name" : "Question_4.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_5.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_5.cpp-Debug-96f89d662768213f15e2.json",
+					"name" : "Question_5.cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/victorchumo/Desktop/Intro to Programming /124263_CAT 2/cmake-build-debug",
+		"source" : "/Users/victorchumo/Desktop/Intro to Programming /124263_CAT 2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
