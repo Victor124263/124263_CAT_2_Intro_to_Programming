@@ -35,7 +35,7 @@ int main() {
             cout << "The smallest number is: " << num3 << endl;
             break;
         default:
-            cout << "Error in determining the smallest number." << endl;
+            cout << "Error encountered while determining the smallest number." << endl;
             break;
     }
 
